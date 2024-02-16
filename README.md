@@ -1,24 +1,35 @@
 Abstract
 
 Gravitational waves are 'ripples' in space-time caused by some of the most violent and energetic processes in the Universe. Albert Einstein first theorized the presence of gravitational waves in 1916 within his General Theory of Relativity. Einstein's mathematics revealed that the movement of massive accelerating objects, such as neutron stars or black holes orbiting each other, would create a disturbance in space-time, causing ripples of undulating space-time to spread in all directions from the source. The momentous finding of gravitational waves took place in 2015, when the Laser Interferometer Gravitational-Wave Observatory (LIGO) detectors, located in Washington and Louisiana, successfully detected them using ground-based facilities. When a gravitational wave is detected, the arms of LIGO also experience fluctuations in length. As a result, the lasers within the arms travel varying distances before coming together again. The technical term for this oscillation is "Differential Arm" motion, since the arms simultaneously change lengths in opposing ways. Now, as the beams recombine, they are out of sync, or "out of phase", and no longer totally destructively interfere. Instead, the merging beams shift in and out of phase, and a flicker of light emerges from the interferometer. Traveling at the speed of light, these cosmic ripples provide valuable insights into the true nature of gravity and reveal information about their origins, making them a fascinating area of study for scientists.
+
 Theoretical Construct
+
 Let,
-•
-Mass of first body = 𝑚1
-•
-Mass of second body = 𝑚2
-•
-Distance between the bodies = 𝑟
-•
-Angular frequency of revolution = 𝜔
-•
-Distance of 𝑚1 from the centre of mass of the system, 𝑟1=𝑚2𝑟𝑚1+𝑚2
-•
-Distance of 𝑚2 from the centre of mass of the system, 𝑟2 =𝑚1𝑟𝑚1+𝑚2
+• Mass of first body = 𝑚1
+
+• Mass of second body = 𝑚2
+
+• Distance between the bodies = 𝑟
+
+• Angular frequency of revolution = 𝜔
+
+• Distance of 𝑚1 from the centre of mass of the system, 𝑟1=𝑚2𝑟𝑚1+𝑚2
+
+• Distance of 𝑚2 from the centre of mass of the system, 𝑟2 =𝑚1𝑟𝑚1+𝑚2
+
 ⇒ Instantaneous velocity of first body, 𝑣1= 𝜔𝑟1= 𝑚2𝑟𝜔𝑚1+𝑚2
+
 ⇒ Instantaneous velocity of second body, 𝑣2= 𝜔𝑟2= 𝑚1𝑟𝜔𝑚1+𝑚2
+
 Now, the Centripetal force on each mass is equal to the Gravitational force experienced by them respectively
-∴𝐹𝑔𝑟𝑎𝑣𝑖𝑡𝑎𝑡𝑖𝑜𝑛=𝐺𝑚1𝑚2r2=m1r1ω2=𝐹𝑐𝑒𝑛𝑡𝑟𝑖𝑝𝑒𝑡𝑎𝑙 ----- (here 𝐺= Gravitational constant) ⇒𝐺𝑚1𝑚2𝑟2=𝑚1𝑚2𝑟𝜔2𝑚1+𝑚2 ⇒𝐺(𝑚1+𝑚2)𝑟3=𝜔2 ⇒𝜔=√𝐺(𝑚1+𝑚2)𝑟3
+∴𝐹𝑔𝑟𝑎𝑣𝑖𝑡𝑎𝑡𝑖𝑜𝑛=𝐺𝑚1𝑚2r2=m1r1ω2=𝐹𝑐𝑒𝑛𝑡𝑟𝑖𝑝𝑒𝑡𝑎𝑙 ----- (here 𝐺= Gravitational constant) 
+
+⇒𝐺𝑚1𝑚2𝑟2=𝑚1𝑚2𝑟𝜔2𝑚1+𝑚2 
+
+⇒𝐺(𝑚1+𝑚2)𝑟3=𝜔2 
+
+⇒𝜔=√𝐺(𝑚1+𝑚2)𝑟3
+
 Assuming that relativistic effects are negligible,
 Total energy, 𝐸=𝐾𝑖𝑛𝑒𝑡𝑖𝑐 𝑒𝑛𝑟𝑔𝑦+𝑃𝑜𝑡𝑒𝑛𝑡𝑖𝑎𝑙 𝐸𝑛𝑒𝑟𝑔𝑦 ⇒𝐸=12𝑚1𝑣22+12𝑚2𝑣22−𝐺𝑚1𝑚2𝑟 ⇒𝐸=12𝑚1(𝐺(𝑚1+𝑚2)𝑟3)(𝑚2𝑟𝑚1+𝑚2)2+12𝑚2(𝐺(𝑚1+𝑚2)𝑟3)(𝑚1𝑟𝑚1+𝑚2)2−𝐺𝑚1𝑚2𝑟 ∴𝐸=−𝐺𝑚1𝑚22𝑟
 Substituting r from ω=√𝐺(𝑚1+𝑚2)𝑟3 ⇒𝐸=(𝐺𝑚1𝑚22)(ω2𝐺(𝑚1+𝑚2))1/3
