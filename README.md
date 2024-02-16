@@ -1,4 +1,5 @@
 *Abstract* 
+
 Gravitational waves are 'ripples' in space-time caused by some of the most violent and 
 energetic processes in the Universe. Albert Einstein first theorized the presence of 
 gravitational waves in 1916 within his General Theory of Relativity. Einstein's mathematics 
